@@ -1,6 +1,6 @@
 {
   "name": "cod_for_tea",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Basic demonstration app",
   "main": "index.js",
   "scripts": {
