@@ -1,2 +1,2 @@
-# code_for_tea
+# cod_for_tea
 Basic demonstration app
